@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Amazon Basics Indoor Portable Radiator H_1bd972</name>
+   <tag></tag>
+   <elementGuidId>df3d9ac1-2c66-4ece-91a6-edce4f60fd84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div[2]/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fa50f8d0-f493-44d3-8910-82306792c8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-mini a-spacing-none a-color-base s-line-clamp-4</value>
+      <webElementGuid>e6c69315-c9be-405a-aaf5-1df0dce72140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon Basics Indoor Portable Radiator Heater, 1500 W, White  </value>
+      <webElementGuid>25002412-c742-4bb5-85bd-4526899aea9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-4-of-24 sg-col-4-of-12 s-result-item s-asin sg-col-4-of-16 AdHolder sg-col s-widget-spacing-small sg-col-4-of-20&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/div[@class=&quot;rush-component s-expand-height&quot;]/div[@class=&quot;rush-component s-featured-result-item s-expand-height&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-expand-height puis-include-content-margin puis puis-v2rh3j15wdcp4q29xeaptoa72x6 s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;a-section a-spacing-small puis-padding-left-small puis-padding-right-small&quot;]/div[@class=&quot;a-section a-spacing-none a-spacing-top-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-4&quot;]</value>
+      <webElementGuid>d28b9c15-aa61-4513-b5c2-7c0a0acdb507</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div[2]/div[2]/h2</value>
+      <webElementGuid>650ffdda-14db-4b92-84d1-de70d750f92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>e4057e68-30ae-4ca4-80d5-d1f7d07a706f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Amazon Basics Indoor Portable Radiator Heater, 1500 W, White  ' or . = 'Amazon Basics Indoor Portable Radiator Heater, 1500 W, White  ')]</value>
+      <webElementGuid>92851fca-f9db-4dc4-a05b-82049455b011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

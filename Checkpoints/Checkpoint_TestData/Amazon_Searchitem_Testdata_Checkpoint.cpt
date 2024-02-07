@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Amazon_Searchitem_Testdata_Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Amazon_TestData/Amazon_TestData_excel</source-url>
+   </source-info>
+   <taken-date>2024-02-03T21:38:43.733+05:30</taken-date>
+   <column-names>
+      <column-name>Category</column-name>
+      <column-name>Item</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Books",
+      "checked": false
+    },
+    {
+      "value": "Rich Dad",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Electronics",
+      "checked": false
+    },
+    {
+      "value": "TV",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Deals",
+      "checked": true
+    },
+    {
+      "value": "Mobile",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
